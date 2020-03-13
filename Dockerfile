@@ -1,1 +1,1 @@
-FROM eap64-openshift:latest
+FROM registry.redhat.io/jboss-eap-6/eap64-openshift@sha256:c1ba8fcd40cb4021cf2f79baf41a68890fd343bf7aefbe759d5686ce526b9f5d
