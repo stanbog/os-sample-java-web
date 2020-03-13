@@ -1,1 +1,1 @@
-CMD ["echo", "$HOME"]
+FROM eap64-openshift:latest
