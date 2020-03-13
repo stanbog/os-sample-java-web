@@ -1,1 +1,1 @@
-
+CMD ["echo", "$HOME"]
